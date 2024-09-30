@@ -26,6 +26,7 @@ function App()
                     <div className='absolute items-center justify-center text-7xl z-50 w-full h-full flex'>
                         <h>Hello world</h>
                         <p>this is a sentence</p>
+                        <p>Another sentence</p>
                     </div>
                 </Scroll>
             </ScrollControls>
